@@ -1,0 +1,18 @@
+0 donut
+1 pizza
+2 salad
+3 cake
+4 steak
+5 burger
+6 sushi
+7 ramen
+8 plov
+9 pancakes
+10 icecream
+11 chocolate
+12 pie
+13 dumplings
+14 wrap
+15 strawberries
+16 blueberries
+17 chicken nugget
